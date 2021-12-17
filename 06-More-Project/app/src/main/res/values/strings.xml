@@ -8,4 +8,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam volutpat eu augue i
 \n\nDuis nec nisi scelerisque, venenatis odio vel, venenatis sapien. Mauris feugiat porttitor eros nec eleifend. Nulla lobortis risus ut tellus porta, id rutrum libero viverra. In luctus dui tempus lacus molestie semper. Nulla efficitur enim id consequat maximus. Vestibulum non viverra dolor. Maecenas non ligula lorem. Phasellus non tincidunt orci, vel ullamcorper libero. Ut varius imperdiet arcu non gravida. Cras accumsan, tortor ac efficitur imperdiet, diam nisl mollis risus, sed finibus nulla orci eget diam. Suspendisse placerat dolor sed mi tempor volutpat.
 \n\nQuisque malesuada sapien eget tellus egestas, sed rutrum ex condimentum. Proin sem nisl, malesuada eu risus non, vestibulum varius nibh. Phasellus ultricies neque in tellus pellentesque, eget suscipit lectus efficitur. Aliquam facilisis dui a rhoncus hendrerit. Donec posuere laoreet nisi ut semper. Vivamus eu lorem eget diam lobortis aliquam. Phasellus dapibus erat ut nibh consectetur sagittis. Suspendisse nibh lacus, eleifend in imperdiet non, fermentum ut tellus.
     </string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
 </resources>
