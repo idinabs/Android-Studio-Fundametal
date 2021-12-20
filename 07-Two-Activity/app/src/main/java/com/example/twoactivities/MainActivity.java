@@ -11,7 +11,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public abstract class MainActivity extends AppCompatActivity {
-    public  static  final int TEXT_REQUEST = 1;
+    public static final int TEXT_REQUEST = 1;
 
     private EditText mMessageEditText;
 
