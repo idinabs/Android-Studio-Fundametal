@@ -40,4 +40,10 @@ public class DisplayMessageActivity extends AppCompatActivity {
         Log.d(LOG_TAG, "onResume");
     }
 
+    @Override
+    public void onPause() {
+        super.onPause();
+        Log.d(LOG_TAG, "onPause");
+    }
+
 }
