@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d(Log_TAG, "onPause");
     }
 
+
     public void sendMessage(View view) {
         Intent intent = new Intent(this, DisplayMessageActivity.class);
         EditText editText = (EditText) findViewById(R.id.editTextTextPersonName);

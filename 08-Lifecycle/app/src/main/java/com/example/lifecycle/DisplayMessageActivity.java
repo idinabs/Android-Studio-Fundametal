@@ -20,7 +20,7 @@ public class DisplayMessageActivity extends AppCompatActivity {
         String message;
         message = intent.getStringExtra(MainActivity.EXTRA_MESSAGE);
 
-        TextView textView = findViewById(R.id.textView);
+        TextView textView = findViewById(R.id.replyHeadTextView);
         textView.setText(message);
 
         Log.d(LOG_TAG, "========");
