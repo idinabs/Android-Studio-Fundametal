@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.droidinput.MainActivity" >
+
+    <item android:id="@+id/action_order"
+        android:title="@string/action_order"
+        android:orderInCategory="10"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_shopping_cart2_foreground"/>
+    <item android:id="@+id/action_status"
+        android:title="@string/action_status"
+        android:orderInCategory="20"
+        android:icon="@drawable/ic_shopping_status_foreground"
+        app:showAsAction="always" />
+    <item android:id="@+id/action_favorites"
+        android:title="@string/action_favorites"
+        android:orderInCategory="30"
+        android:icon="@drawable/ic_shopping_favorit_foreground"
+        app:showAsAction="always" />
+</menu>

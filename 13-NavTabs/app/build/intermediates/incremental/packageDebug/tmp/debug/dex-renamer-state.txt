@@ -1,0 +1,4 @@
+#Fri Dec 24 16:04:07 WITA 2021
+base.0=/home/petot/Dev/Android-Studio/13-NavTabs/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
