@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/petot/Dev/Android-Studio/13-NavTabs/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml",
+            "outputFile": "/home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml",
             "map": [
                 {
                     "source": "/home/petot/.gradle/caches/transforms-3/70c799876cc4b9352661e13d7d899d77/transformed/appcompat-v7-26.1.0/res/values-zu/values-zu.xml",

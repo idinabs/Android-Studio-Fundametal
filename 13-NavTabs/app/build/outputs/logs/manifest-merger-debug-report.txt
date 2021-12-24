@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:18:1-37:12
-INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:18:1-37:12
-INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:18:1-37:12
-INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:18:1-37:12
+ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:18:1-37:12
 MERGED from [com.android.support:design:26.1.0] /home/petot/.gradle/caches/transforms-3/ea53b0364940df1da635753282a272c0/transformed/design-26.1.0/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/petot/.gradle/caches/transforms-3/70c799876cc4b9352661e13d7d899d77/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/petot/.gradle/caches/transforms-3/2181942c93eadbdf5fb8c441d6dc1764/transformed/constraint-layout-1.0.2/AndroidManifest.xml:2:1-11:12
@@ -18,25 +18,25 @@ MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/petot/.gradle/cac
 MERGED from [com.android.support:support-core-ui:26.1.0] /home/petot/.gradle/caches/transforms-3/93ec89f72eabf6b5dacab4bd33c25cb5/transformed/support-core-ui-26.1.0/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /home/petot/.gradle/caches/transforms-3/dbc97c464cc80e4d3d7992234241dfe4/transformed/support-compat-26.1.0/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/petot/.gradle/caches/transforms-3/fe444abbf60f057508cbdb107bfee67e/transformed/runtime-1.0.0/AndroidManifest.xml:17:1-30:12
-INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:18:1-37:12
-INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:18:1-37:12
-INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:18:1-37:12
 	package
-		ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:19:5-48
-		INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml
-		INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml
+		ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:19:5-48
+		INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml
-		ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:18:1-37:12
-		INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml
+		ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:18:1-37:12
+		INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml
-		ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:18:1-37:12
-		INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml
+		ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:18:1-37:12
+		INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:18:11-69
+		ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:18:11-69
 application
-ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:21:5-35:19
+ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:21:5-35:19
 MERGED from [com.android.support:design:26.1.0] /home/petot/.gradle/caches/transforms-3/ea53b0364940df1da635753282a272c0/transformed/design-26.1.0/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] /home/petot/.gradle/caches/transforms-3/ea53b0364940df1da635753282a272c0/transformed/design-26.1.0/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/petot/.gradle/caches/transforms-3/70c799876cc4b9352661e13d7d899d77/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
@@ -66,35 +66,35 @@ MERGED from [com.android.support:support-compat:26.1.0] /home/petot/.gradle/cach
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/petot/.gradle/caches/transforms-3/fe444abbf60f057508cbdb107bfee67e/transformed/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/petot/.gradle/caches/transforms-3/fe444abbf60f057508cbdb107bfee67e/transformed/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:26:9-35
+		ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:26:9-35
 	android:label
-		ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:24:9-41
+		ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:24:9-41
 	android:roundIcon
-		ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:25:9-54
+		ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:25:9-54
 	android:icon
-		ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:23:9-43
+		ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:23:9-43
 	android:allowBackup
-		ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:22:9-35
+		ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:22:9-35
 	android:theme
-		ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:27:9-40
+		ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:27:9-40
 activity#com.example.android.tabexperiment.MainActivity
-ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:28:9-34:20
+ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:28:9-34:20
 	android:name
-		ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:28:19-47
+		ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:28:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:29:13-33:29
+ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:30:17-69
+ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:30:25-66
+		ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:32:17-77
+ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml:32:27-74
+		ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml:32:27-74
 uses-sdk
-INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml
-INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml
+INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml
+INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:design:26.1.0] /home/petot/.gradle/caches/transforms-3/ea53b0364940df1da635753282a272c0/transformed/design-26.1.0/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:26.1.0] /home/petot/.gradle/caches/transforms-3/ea53b0364940df1da635753282a272c0/transformed/design-26.1.0/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/petot/.gradle/caches/transforms-3/70c799876cc4b9352661e13d7d899d77/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
@@ -123,18 +123,18 @@ MERGED from [com.android.support:support-compat:26.1.0] /home/petot/.gradle/cach
 MERGED from [com.android.support:support-compat:26.1.0] /home/petot/.gradle/caches/transforms-3/dbc97c464cc80e4d3d7992234241dfe4/transformed/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/petot/.gradle/caches/transforms-3/fe444abbf60f057508cbdb107bfee67e/transformed/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/petot/.gradle/caches/transforms-3/fe444abbf60f057508cbdb107bfee67e/transformed/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml
-INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml
+INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml
+INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:26.1.0] /home/petot/.gradle/caches/transforms-3/ea53b0364940df1da635753282a272c0/transformed/design-26.1.0/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml
-		ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml
-		INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml
+		ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml
-		ADDED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml
-		INJECTED from /home/petot/Dev/Android-Studio/13-NavTabs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml
+		ADDED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:26.1.0] /home/petot/.gradle/caches/transforms-3/ea53b0364940df1da635753282a272c0/transformed/design-26.1.0/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/petot/.gradle/caches/transforms-3/70c799876cc4b9352661e13d7d899d77/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38

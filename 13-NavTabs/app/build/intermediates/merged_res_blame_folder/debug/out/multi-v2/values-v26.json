@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/petot/Dev/Android-Studio/13-NavTabs/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
+            "outputFile": "/home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
             "map": [
                 {
                     "source": "/home/petot/.gradle/caches/transforms-3/ea53b0364940df1da635753282a272c0/transformed/design-26.1.0/res/values-v26/values-v26.xml",
