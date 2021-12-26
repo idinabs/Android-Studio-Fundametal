@@ -24,12 +24,12 @@
         "source": "/home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/build/intermediates/merged_res/debug/layout_tab_fragment2.xml.flat",
-        "source": "/home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/res/layout/tab_fragment2.xml"
-    },
-    {
         "merged": "/home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "/home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/build/intermediates/merged_res/debug/layout_tab_fragment2.xml.flat",
+        "source": "/home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/src/main/res/layout/tab_fragment2.xml"
     },
     {
         "merged": "/home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_launcher_background.png.flat",
