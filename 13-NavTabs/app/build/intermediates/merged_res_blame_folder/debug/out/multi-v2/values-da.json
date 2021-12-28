@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/petot/Dev/Android-Studio-Fundametal/13-NavTabs/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml",
+            "outputFile": "/home/p3t0t/Android-Studio-Fundametal/13-NavTabs/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml",
             "map": [
                 {
-                    "source": "/home/petot/.gradle/caches/transforms-3/70c799876cc4b9352661e13d7d899d77/transformed/appcompat-v7-26.1.0/res/values-da/values-da.xml",
+                    "source": "/home/p3t0t/.gradle/caches/transforms-3/70c799876cc4b9352661e13d7d899d77/transformed/appcompat-v7-26.1.0/res/values-da/values-da.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
