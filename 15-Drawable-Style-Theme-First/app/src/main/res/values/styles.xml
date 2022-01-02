@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ScoreButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/button_background</item>
+    </style>
+    <style name="PlusButton" parent="ScoreButton">
+        <item name="android:src">@drawable/ic_increase_foreground</item>
+        <item name="android:contentDescription">@string/plus_button_decriptions</item>
+    </style>
+    <style name="MinusButton" parent="ScoreButton">
+        <item name="android:src">@drawable/ic_decrease_foreground</item>
+        <item name="android:contentDescription">@string/minus_button_decriptions</item>
+    </style>
+
+</resources>

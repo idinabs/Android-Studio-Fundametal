@@ -1,0 +1,4 @@
+#Sat Jan 01 12:24:03 WITA 2022
+base.0=/home/p3t0t/Apps/Android-Studio-Fundametal/16-Card-Color/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

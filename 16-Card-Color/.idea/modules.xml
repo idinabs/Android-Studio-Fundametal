@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/16-Card-Color.iml" filepath="$PROJECT_DIR$/.idea/modules/16-Card-Color.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/16-Card-Color.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/16-Card-Color.app.iml" />
+    </modules>
+  </component>
+</project>
