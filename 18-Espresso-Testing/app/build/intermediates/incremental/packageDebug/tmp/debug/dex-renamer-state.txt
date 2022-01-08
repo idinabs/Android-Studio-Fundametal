@@ -1,4 +1,4 @@
-#Sun Jan 02 18:00:55 WITA 2022
-base.0=/home/p3t0t/Apps/Android-Studio-Fundametal/18-Espresso-Testing/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Mon Jan 03 02:22:01 WITA 2022
+base.0=/media/p3t0t/Kizil/MyRepo/Android-Studio-Fundametal/18-Espresso-Testing/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

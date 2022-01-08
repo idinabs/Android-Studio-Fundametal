@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/home/p3t0t/Apps/Android-Studio-Fundametal/18-Espresso-Testing/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/media/p3t0t/Kizil/MyRepo/Android-Studio-Fundametal/18-Espresso-Testing/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/p3t0t/Apps/Android-Studio-Fundametal/18-Espresso-Testing/app/src/main/res/values/strings.xml",
+                    "source": "/media/p3t0t/Kizil/MyRepo/Android-Studio-Fundametal/18-Espresso-Testing/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "20,18,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "770,672,719",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "811,714,765"
+                    },
+                    "to": {
+                        "startLines": "118,119,120",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "6189,6235,6282",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "6230,6277,6328"
+                    }
+                },
+                {
+                    "source": "/media/p3t0t/Kizil/MyRepo/Android-Studio-Fundametal/18-Espresso-Testing/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "17,18,21,19,22,20,23",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -57,24 +74,7 @@
                     }
                 },
                 {
-                    "source": "/home/p3t0t/Apps/Android-Studio-Fundametal/18-Espresso-Testing/app/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "20,18,19",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "770,672,719",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "811,714,765"
-                    },
-                    "to": {
-                        "startLines": "118,119,120",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "6189,6235,6282",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "6230,6277,6328"
-                    }
-                },
-                {
-                    "source": "/home/p3t0t/Apps/Android-Studio-Fundametal/18-Espresso-Testing/app/src/main/res/values/styles.xml",
+                    "source": "/media/p3t0t/Kizil/MyRepo/Android-Studio-Fundametal/18-Espresso-Testing/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "19",
                         "startColumns": "4",

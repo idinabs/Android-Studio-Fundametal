@@ -1,0 +1,4 @@
+#Mon Jan 03 03:40:35 WITA 2022
+base.0=/media/p3t0t/Kizil/MyRepo/Android-Studio-Fundametal/19-Espresso-Testing-2-List/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

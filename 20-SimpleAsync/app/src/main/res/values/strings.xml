@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleActivity</string>
+    <string name="napping">I am ready to start work</string>
+</resources>

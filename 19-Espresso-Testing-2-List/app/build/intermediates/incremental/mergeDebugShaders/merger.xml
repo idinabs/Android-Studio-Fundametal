@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/media/p3t0t/Kizil/MyRepo/Android-Studio-Fundametal/19-Espresso-Testing-2-List/app/src/main/shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/media/p3t0t/Kizil/MyRepo/Android-Studio-Fundametal/19-Espresso-Testing-2-List/app/src/debug/shaders"/></dataSet></merger>
